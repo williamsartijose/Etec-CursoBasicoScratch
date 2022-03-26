@@ -1,3 +1,4 @@
-# Etec-Curso Basico de Scratch  Aqui você encontra o material passado em sala de aula https://pt.slideshare.net/williamjosesarti/aula-00-251157298
+# Etec-Curso Basico de Scratch  
+Aqui você encontra o material passado em sala de aula https://pt.slideshare.net/williamjosesarti/aula-00-251157298
 
 
